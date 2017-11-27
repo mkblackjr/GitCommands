@@ -8,7 +8,7 @@ git branch -r | grep -v '\->' | while read remote; do git branch --track "${remo
 git fetch --all
 git pull --all
 
-cd ~/Documents/GithubRepositories/PythonScripts/
+cd ~/Documents/GithubRepositories/PythonHelperScripts/
 git branch -r | grep -v '\->' | while read remote; do git branch --track "${remote#origin/}" "$remote"; done
 git fetch --all
 git pull --all
