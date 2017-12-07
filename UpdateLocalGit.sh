@@ -1,19 +1,19 @@
-cd ~/Documents/GithubRepositories/MVS/
+cd ~/Documents/Professional/CareerDevelopment/MichiganAerospace/GithubRepositories/MVS/
 git branch -r | grep -v '\->' | while read remote; do git branch --track "${remote#origin/}" "$remote"; done
 git pull --all
 
-cd ~/Documents/GithubRepositories/WaterQuality/
+cd ~/Documents/Professional/CareerDevelopment/MichiganAerospace/GithubRepositories/WaterQuality/
 git branch -r | grep -v '\->' | while read remote; do git branch --track "${remote#origin/}" "$remote"; done
 git pull --all
 
-cd ~/Documents/GithubRepositories/PythonHelperScripts/
+cd ~/Documents/Professional/CareerDevelopment/MichiganAerospace/GithubRepositories/PythonHelperScripts/
 git branch -r | grep -v '\->' | while read remote; do git branch --track "${remote#origin/}" "$remote"; done
 git pull --all
 
-cd ~/Documents/GithubRepositories/GitCommands/
+cd ~/Documents/Professional/CareerDevelopment/MichiganAerospace/GithubRepositories/GitCommands/
 git branch -r | grep -v '\->' | while read remote; do git branch --track "${remote#origin/}" "$remote"; done
 git pull --all
 
-cd ~/Documents/GithubRepositories/HomeProjects/
+cd ~/Documents/Professional/CareerDevelopment/MichiganAerospace/GithubRepositories/HomeProjects/
 git branch -r | grep -v '\->' | while read remote; do git branch --track "${remote#origin/}" "$remote"; done
 git pull --all

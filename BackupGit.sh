@@ -1,4 +1,4 @@
-cd ~/Documents/GithubRepositories/MVS/
+cd ~/Documents/GitCommands/
 git checkout development
 git add *
 git commit -m "Daily Commit"
@@ -8,7 +8,7 @@ git checkout master
 git merge development
 git push -u origin master
 
-cd ~/Documents/GithubRepositories/WaterQuality/
+cd ~/Documents/Professional/CareerDevelopment/MichiganAerospace/GithubRepositories/MVS/
 git checkout development
 git add *
 git commit -m "Daily Commit"
@@ -18,7 +18,7 @@ git checkout master
 git merge development
 git push -u origin master
 
-cd ~/Documents/GithubRepositories/PythonHelperScripts/
+cd ~/Documents/Professional/CareerDevelopment/MichiganAerospace/GithubRepositories/WaterQuality/
 git checkout development
 git add *
 git commit -m "Daily Commit"
@@ -28,7 +28,7 @@ git checkout master
 git merge development
 git push -u origin master
 
-cd ~/Documents/GithubRepositories/GitCommands/
+cd ~/Documents/Professional/CareerDevelopment/MichiganAerospace/GithubRepositories/PythonHelperScripts/
 git checkout development
 git add *
 git commit -m "Daily Commit"
@@ -38,7 +38,7 @@ git checkout master
 git merge development
 git push -u origin master
 
-cd ~/Documents/GithubRepositories/HomeProjects/
+cd ~/Documents/Personal/HomeProjects/
 git checkout development
 git add *
 git commit -m "Daily Commit"
