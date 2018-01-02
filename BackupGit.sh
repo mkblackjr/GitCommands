@@ -8,7 +8,7 @@ git checkout master
 git merge development
 git push -u origin master
 
-cd ~/Documents/Professional/CareerDevelopment/MichiganAerospace/GithubRepositories/MVS/
+cd ~/Documents/Professional/MichiganAerospace/GithubRepositories/MVS/
 git checkout development
 git add *
 git commit -m "Daily Commit"
@@ -18,7 +18,7 @@ git checkout master
 git merge development
 git push -u origin master
 
-cd ~/Documents/Professional/CareerDevelopment/MichiganAerospace/GithubRepositories/WaterQuality/
+cd ~/Documents/Professional/MichiganAerospace/GithubRepositories/WaterQuality/
 git checkout development
 git add *
 git commit -m "Daily Commit"
@@ -28,7 +28,7 @@ git checkout master
 git merge development
 git push -u origin master
 
-cd ~/Documents/Professional/CareerDevelopment/MichiganAerospace/GithubRepositories/PythonHelperScripts/
+cd ~/Documents/Professional/MichiganAerospace/GithubRepositories/PythonHelperScripts/
 git checkout development
 git add *
 git commit -m "Daily Commit"
